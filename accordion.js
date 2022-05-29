@@ -1,3 +1,3 @@
 $(document).ready(function() {
-	$("#tabs").tabs(collapsible: true);
+	$("#tabs").accordion({collapsible: true});
 });
